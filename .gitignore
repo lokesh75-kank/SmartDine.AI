@@ -1,0 +1,6 @@
+# Ignore all files in the directory
+.env
+
+
+
+# Allow this specific file
