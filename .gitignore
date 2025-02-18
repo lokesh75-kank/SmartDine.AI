@@ -1,6 +1,12 @@
 # Ignore all files in the directory
 .env
 
+# Ignore SQLite database files
+*.sqlite
+restaurant_db.sqlite
 
+# Ignore Python cache files
+__pycache__/
+*.pyc
 
 # Allow this specific file
